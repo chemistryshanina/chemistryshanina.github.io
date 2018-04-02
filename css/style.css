@@ -1,0 +1,52 @@
+.up {
+  color: white;
+  font-size: 25px;
+  display: none;
+  height: 50px;
+  width: 50px;
+  background-color: #384CFF;
+  position: fixed;
+  border-radius: 5px;
+  z-index: 999;
+  bottom: 10px;
+  right: 10px; }
+  .up img {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 40px;
+    height: 40px; }
+section#main{
+	height: 100vh;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase; 
+}
+.main_header{
+	margin-top: 25%;
+}
+body{
+	line-height: 2;
+	font-family: 'IBM Plex Serif', serif;
+	background-image: url(../img/pattern.png);
+	background-repeat: repeat; 
+}
+section#nmain{
+    height: 1000px;
+	background-image: url(../img/pattern.png);
+	background-repeat: repeat; 
+}
+section#main2{
+	height: 670px;
+	background-image: url(../img/pic2.jpg);
+	background-position: center center; 
+	background-repeat: no-repeat; 
+	background-size: 100%;
+}
+table{
+	border-color: #acabab;
+	border-style: dashed;
+	border-width: 3px;
+	background-color: #bcfed2;
+}
